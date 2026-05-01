@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-[  <img src="https://github-readme-stats.vercel.app/api?username=rudraa22&show_icons=true&theme=tokyonight" alt="Rudra's GitHub stats" />](https://github-readme-stats.vercel.app/api?username=rudraa22&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)
+[  <img src="[https://github-readme-stats.vercel.app/api?username=rudraa22&show_icons=true&theme=tokyonight" alt="Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudraa22&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)" />]
 </p>
 
 ---
