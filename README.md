@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanodiya Rudra</h1>
-<h3 align="center">Cybersecurity Enthusiast | MERN Stack Developer | B.Sc. IT Student</h3>
+<h3 align="center">Business analyst | MERN Stack Developer | B.Sc. IT Student</h3>
 
 <br/>
 
@@ -25,15 +25,9 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🔹 [FlipHire](https://github.com/rudraa22/Fliphire)
-> Job & internship matching platform built for freshers
-> **Stack:** HTML · CSS · JavaScript · Firebase
-
----
 
 ## 📜 Certifications
+- ✅ DISM — IANT
 - ✅ Web Development — L&T EduTech
 - ✅ Web Development — Coursera
 - ✅ Web Development — Bolt IoT
